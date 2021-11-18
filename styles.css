@@ -102,3 +102,21 @@ button.active {
     background-color: #7a4f4f;
     color: white;
   }
+
+/* FOOTER */
+
+footer{
+  font-family: Arial, Helvetica, sans-serif;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(92, 92, 92, 0.432);
+  text-align: center;
+  padding: 16px 0;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(255, 104, 4);
+}
